@@ -1,0 +1,601 @@
+id_paciente,especialidad,procedimiento,es_ges,tramo_fonasa,edad,sexo,region,fecha_ingreso_lista,dias_espera,riesgo_clinico_score,estado
+P00548,Neurocirugía,Craneotomía electiva,False,B,75,M,Metropolitana,2023-08-10,1083,4,en_espera
+P00477,Cirugía Cardiovascular,Cirugía valvular,False,B,84,F,Metropolitana,2024-06-11,777,4,en_espera
+P00031,Neurocirugía,Craneotomía electiva,False,B,81,F,Metropolitana,2024-12-02,603,4,en_espera
+P00486,Traumatología,Artroplastia de rodilla,False,B,56,M,Biobío,2022-06-19,1500,3,en_espera
+P00082,Traumatología,Artroplastia de cadera <65,False,B,45,F,Tarapacá,2022-07-15,1474,3,en_espera
+P00065,Traumatología,Artroplastia de rodilla,False,B,35,F,Valparaíso,2022-11-22,1344,3,en_espera
+P00237,Traumatología,Reparación manguito rotador,False,A,54,F,Coquimbo,2023-03-15,1231,3,en_espera
+P00085,Traumatología,Artroplastia de rodilla,False,B,69,M,Metropolitana,2023-09-16,1046,3,en_espera
+P00394,Cirugía Plástica y Reparadora,Cirugía de quemados,False,D,70,F,Biobío,2023-10-14,1018,3,en_espera
+P00191,Cirugía Cardiovascular,Bypass coronario,False,B,50,M,Metropolitana,2023-11-04,997,3,en_espera
+P00324,Traumatología,Corrección hallux valgus,False,B,57,M,Metropolitana,2023-11-14,987,3,en_espera
+P00004,Urología,Prostatectomía,False,B,59,F,Metropolitana,2023-12-01,970,3,en_espera
+P00589,Traumatología,Meniscectomía,False,B,65,F,Metropolitana,2023-12-04,967,3,en_espera
+P00503,Traumatología,Meniscectomía,False,C,64,F,Biobío,2023-12-11,960,3,en_espera
+P00169,Traumatología,Artroplastia de cadera <65,False,A,69,F,Metropolitana,2023-12-17,954,3,en_espera
+P00443,Traumatología,Corrección hallux valgus,False,B,65,F,Antofagasta,2024-02-02,907,3,en_espera
+P00040,Cirugía Digestiva,Reparación hernia inguinal,False,C,88,M,Magallanes,2024-03-22,858,3,en_espera
+P00062,Traumatología,Artroplastia de rodilla,False,D,67,F,Metropolitana,2024-03-31,849,3,en_espera
+P00452,Neurocirugía,Craneotomía electiva,False,C,46,M,Maule,2024-04-10,839,3,en_espera
+P00240,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,B,78,F,Metropolitana,2024-05-07,812,3,en_espera
+P00560,Traumatología,Artroplastia de rodilla,False,B,95,F,Araucanía,2024-05-08,811,3,en_espera
+P00279,Neurocirugía,Cirugía de columna,False,B,35,M,Maule,2024-06-24,764,3,en_espera
+P00033,Neurocirugía,Cirugía de columna,False,D,50,M,Metropolitana,2024-06-28,760,3,en_espera
+P00502,Neurocirugía,Cirugía de columna,False,B,62,F,Valparaíso,2024-07-01,757,3,en_espera
+P00547,Neurocirugía,Cirugía de columna,False,B,37,F,Los Lagos,2024-07-10,748,3,en_espera
+P00211,Traumatología,Artroplastia de rodilla,False,A,84,F,Metropolitana,2024-12-07,598,3,en_espera
+P00135,Neurocirugía,Craneotomía electiva,False,D,65,M,Metropolitana,2024-12-17,588,3,en_espera
+P00165,Neurocirugía,Craneotomía electiva,False,A,80,F,Los Lagos,2025-01-01,573,3,en_espera
+P00378,Cirugía Cardiovascular,Bypass coronario,False,B,40,F,Metropolitana,2025-01-30,544,3,en_espera
+P00255,Otorrinolaringología,Amigdalectomía,False,B,92,F,Los Lagos,2025-02-03,540,3,en_espera
+P00242,Cirugía Digestiva,Hernia ventral,False,C,87,M,Los Lagos,2025-02-05,538,3,en_espera
+P00015,Cirugía Cardiovascular,Bypass coronario,False,B,58,M,Antofagasta,2025-04-10,474,3,en_espera
+P00290,Cirugía Cardiovascular,Bypass coronario,False,B,65,M,Antofagasta,2025-05-24,430,3,en_espera
+P00027,Neurocirugía,Craneotomía electiva,False,D,56,F,O'Higgins,2025-05-27,427,3,en_espera
+P00497,Neurocirugía,Craneotomía electiva,False,D,86,F,Antofagasta,2025-07-20,373,3,en_espera
+P00498,Neurocirugía,Cirugía de columna,False,B,70,F,Metropolitana,2025-08-17,345,3,en_espera
+P00313,Neurocirugía,Cirugía de columna,False,B,54,F,Metropolitana,2025-08-24,338,3,en_espera
+P00067,Neurocirugía,Craneotomía electiva,False,D,88,M,Metropolitana,2025-09-21,310,3,en_espera
+P00205,Cirugía Cardiovascular,Bypass coronario,False,B,52,F,O'Higgins,2025-09-24,307,3,en_espera
+P00026,Neurocirugía,Craneotomía electiva,False,C,75,F,Antofagasta,2025-10-09,292,3,en_espera
+P00099,Neurocirugía,Craneotomía electiva,False,C,74,F,O'Higgins,2025-10-15,286,3,en_espera
+P00070,Oncología Quirúrgica,Resección tumoral,False,D,58,M,Metropolitana,2025-11-14,256,3,en_espera
+P00418,Neurocirugía,Cirugía de columna,False,D,57,F,Los Lagos,2025-11-16,254,3,en_espera
+P00464,Neurocirugía,Cirugía de columna,False,A,74,F,Valparaíso,2025-11-19,251,3,en_espera
+P00021,Oncología Quirúrgica,Resección tumoral,False,C,67,F,Metropolitana,2025-12-28,212,3,en_espera
+P00521,Cirugía Cardiovascular,Cirugía valvular,False,A,69,M,O'Higgins,2025-12-30,210,3,en_espera
+P00327,Oncología Quirúrgica,Resección tumoral,False,B,91,M,Metropolitana,2026-01-01,208,3,en_espera
+P00192,Cirugía Cardiovascular,Bypass coronario,True,B,65,M,Los Lagos,2026-02-03,175,3,en_espera
+P00576,Oncología Quirúrgica,Resección tumoral,False,B,68,F,Los Lagos,2026-04-30,89,3,en_espera
+P00595,Oncología Quirúrgica,Resección tumoral,False,B,84,F,Los Ríos,2026-05-15,74,3,en_espera
+P00520,Cirugía Plástica y Reparadora,Cirugía de quemados,False,C,38,F,Araucanía,2023-01-30,1275,2,en_espera
+P00473,Traumatología,Artroplastia de cadera <65,False,C,45,F,Araucanía,2023-08-20,1073,2,en_espera
+P00294,Cirugía Plástica y Reparadora,Cirugía de quemados,False,D,41,F,Metropolitana,2024-01-05,935,2,en_espera
+P00365,Traumatología,Artroplastia de rodilla,False,A,63,F,Araucanía,2024-03-26,854,2,en_espera
+P00508,Traumatología,Artroplastia de cadera <65,False,B,50,F,Araucanía,2024-04-16,833,2,en_espera
+P00454,Traumatología,Artroplastia de cadera <65,False,B,40,F,Los Lagos,2024-04-23,826,2,en_espera
+P00591,Traumatología,Artroplastia de rodilla,False,B,39,M,Antofagasta,2024-05-07,812,2,en_espera
+P00176,Traumatología,Artroplastia de rodilla,False,C,49,M,Valparaíso,2024-06-12,776,2,en_espera
+P00190,Traumatología,Corrección hallux valgus,False,C,48,F,Maule,2024-06-19,769,2,en_espera
+P00525,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,B,44,M,Metropolitana,2024-06-21,767,2,en_espera
+P00432,Traumatología,Artroplastia de cadera <65,False,B,47,M,Metropolitana,2024-07-11,747,2,en_espera
+P00128,Cirugía Digestiva,Reparación hernia inguinal,False,C,45,M,Metropolitana,2024-07-22,736,2,en_espera
+P00299,Traumatología,Meniscectomía,False,B,62,M,Biobío,2024-07-26,732,2,en_espera
+P00126,Neurocirugía,Cirugía de columna,False,B,4,F,Coquimbo,2024-08-01,726,2,en_espera
+P00573,Ginecología,Miomectomía,False,C,43,M,Metropolitana,2024-08-11,716,2,en_espera
+P00538,Traumatología,Meniscectomía,False,C,62,F,Metropolitana,2024-08-12,715,2,en_espera
+P00221,Traumatología,Reparación manguito rotador,False,C,46,M,Araucanía,2024-08-15,712,2,en_espera
+P00334,Cirugía General,Colecistectomía,False,A,55,M,Valparaíso,2024-08-21,706,2,en_espera
+P00248,Cirugía General,Apendicectomía electiva,False,B,73,F,Biobío,2024-09-02,694,2,en_espera
+P00417,Traumatología,Corrección hallux valgus,False,A,69,F,Metropolitana,2024-09-02,694,2,en_espera
+P00496,Oftalmología,Cirugía de cataratas,True,C,44,M,Biobío,2024-09-19,677,2,en_espera
+P00188,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,B,61,M,Biobío,2024-10-23,643,2,en_espera
+P00307,Oftalmología,Cirugía de estrabismo,False,A,50,M,Metropolitana,2024-11-15,620,2,en_espera
+P00445,Otorrinolaringología,Amigdalectomía,False,B,47,F,Metropolitana,2024-11-18,617,2,en_espera
+P00590,Traumatología,Artroplastia de rodilla,False,B,72,F,Ñuble,2024-11-22,613,2,en_espera
+P00058,Traumatología,Artroplastia de rodilla,False,A,79,F,Los Lagos,2024-11-24,611,2,en_espera
+P00083,Traumatología,Artroplastia de rodilla,False,B,58,F,Metropolitana,2024-12-05,600,2,en_espera
+P00197,Cirugía Digestiva,Colecistectomía,False,B,72,M,Metropolitana,2024-12-15,590,2,en_espera
+P00343,Oftalmología,Cirugía de cataratas,True,C,76,F,Metropolitana,2024-12-15,590,2,en_espera
+P00300,Dermatología,Resección lesión cutánea,False,D,44,F,Valparaíso,2024-12-20,585,2,en_espera
+P00435,Dermatología,Resección lesión cutánea,False,A,71,F,Coquimbo,2024-12-23,582,2,en_espera
+P00225,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,B,61,F,Valparaíso,2024-12-26,579,2,en_espera
+P00101,Traumatología,Corrección hallux valgus,False,C,58,F,Metropolitana,2025-01-03,571,2,en_espera
+P00172,Ginecología,Histerectomía,False,C,59,M,Araucanía,2025-01-05,569,2,en_espera
+P00301,Otorrinolaringología,Septoplastía,False,B,66,F,Metropolitana,2025-01-07,567,2,en_espera
+P00370,Traumatología,Artroplastia de cadera <65,False,D,59,F,Metropolitana,2025-01-12,562,2,en_espera
+P00045,Traumatología,Artroplastia de rodilla,False,A,67,F,Valparaíso,2025-01-13,561,2,en_espera
+P00413,Ginecología,Histerectomía,False,B,79,M,Coquimbo,2025-01-23,551,2,en_espera
+P00416,Traumatología,Meniscectomía,False,D,61,M,Biobío,2025-01-23,551,2,en_espera
+P00247,Traumatología,Artroplastia de rodilla,False,B,38,M,Biobío,2025-01-25,549,2,en_espera
+P00264,Traumatología,Corrección hallux valgus,False,D,40,M,Metropolitana,2025-01-26,548,2,en_espera
+P00442,Urología,Resección transuretral,False,C,60,M,Biobío,2025-02-01,542,2,en_espera
+P00414,Traumatología,Artroplastia de rodilla,False,B,63,F,Metropolitana,2025-02-05,538,2,en_espera
+P00551,Neurocirugía,Craneotomía electiva,False,C,34,M,Metropolitana,2025-02-05,538,2,en_espera
+P00555,Dermatología,Resección lesión cutánea,False,B,58,F,Valparaíso,2025-02-13,530,2,en_espera
+P00578,Traumatología,Reparación manguito rotador,False,C,76,F,Biobío,2025-02-14,529,2,en_espera
+P00228,Traumatología,Artroplastia de rodilla,False,B,39,F,Arica y Parinacota,2025-02-20,523,2,en_espera
+P00204,Cirugía Digestiva,Hernia ventral,False,A,50,F,O'Higgins,2025-02-21,522,2,en_espera
+P00516,Cirugía Digestiva,Hernia ventral,False,C,80,F,Biobío,2025-02-28,515,2,en_espera
+P00217,Dermatología,Resección lesión cutánea,False,B,54,F,Metropolitana,2025-03-02,513,2,en_espera
+P00125,Traumatología,Artroplastia de rodilla,False,C,71,F,Metropolitana,2025-03-04,511,2,en_espera
+P00202,Oftalmología,Cirugía de cataratas,True,B,67,F,Metropolitana,2025-03-04,511,2,en_espera
+P00332,Dermatología,Resección lesión cutánea,False,B,45,M,Atacama,2025-03-07,508,2,en_espera
+P00511,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,A,55,F,O'Higgins,2025-03-10,505,2,en_espera
+P00173,Cirugía Digestiva,Hernia ventral,False,B,55,F,Biobío,2025-03-13,502,2,en_espera
+P00254,Dermatología,Biopsia excisional,False,B,40,F,Valparaíso,2025-03-14,501,2,en_espera
+P00047,Dermatología,Biopsia excisional,False,B,52,M,Metropolitana,2025-03-15,500,2,en_espera
+P00146,Neurocirugía,Craneotomía electiva,False,C,28,M,Metropolitana,2025-03-18,497,2,en_espera
+P00250,Cirugía Digestiva,Reparación hernia inguinal,False,B,43,F,Coquimbo,2025-03-20,495,2,en_espera
+P00568,Traumatología,Reparación manguito rotador,False,B,62,M,Valparaíso,2025-03-25,490,2,en_espera
+P00587,Cirugía Cardiovascular,Cirugía valvular,False,A,9,F,Los Lagos,2025-03-26,489,2,en_espera
+P00361,Traumatología,Artroplastia de rodilla,False,A,53,M,Antofagasta,2025-03-27,488,2,en_espera
+P00461,Cirugía Digestiva,Colecistectomía,False,C,85,F,Valparaíso,2025-04-03,481,2,en_espera
+P00199,Oftalmología,Cirugía de cataratas,True,C,63,M,Atacama,2025-04-05,479,2,en_espera
+P00249,Otorrinolaringología,Septoplastía,False,B,65,F,Metropolitana,2025-04-08,476,2,en_espera
+P00428,Traumatología,Reparación manguito rotador,False,A,86,F,Metropolitana,2025-04-09,475,2,en_espera
+P00097,Cirugía Digestiva,Hernia ventral,False,B,43,F,Valparaíso,2025-04-10,474,2,en_espera
+P00534,Neurocirugía,Cirugía de columna,False,C,23,F,Maule,2025-04-10,474,2,en_espera
+P00408,Cirugía Digestiva,Colecistectomía,False,B,72,M,Metropolitana,2025-04-13,471,2,en_espera
+P00549,Cirugía Digestiva,Colecistectomía,False,A,80,F,Coquimbo,2025-04-14,470,2,en_espera
+P00095,Traumatología,Reparación manguito rotador,False,D,48,F,Metropolitana,2025-04-15,469,2,en_espera
+P00144,Cirugía Digestiva,Hernia ventral,False,B,84,F,Metropolitana,2025-04-18,466,2,en_espera
+P00230,Neurocirugía,Cirugía de columna,False,C,28,F,Coquimbo,2025-04-19,465,2,en_espera
+P00259,Otorrinolaringología,Amigdalectomía,False,B,63,F,Maule,2025-04-24,460,2,en_espera
+P00280,Neurocirugía,Cirugía de columna,False,B,41,M,Metropolitana,2025-04-28,456,2,en_espera
+P00012,Dermatología,Resección lesión cutánea,False,C,67,F,Valparaíso,2025-04-29,455,2,en_espera
+P00319,Dermatología,Resección lesión cutánea,False,B,84,F,Aysén,2025-05-01,453,2,en_espera
+P00239,Otorrinolaringología,Amigdalectomía,False,A,66,F,Metropolitana,2025-05-02,452,2,en_espera
+P00263,Traumatología,Artroplastia de rodilla,False,C,87,F,Tarapacá,2025-05-11,443,2,en_espera
+P00399,Cirugía Digestiva,Hernia ventral,False,B,64,F,Biobío,2025-05-13,441,2,en_espera
+P00475,Traumatología,Artroplastia de cadera <65,False,D,86,F,Metropolitana,2025-05-16,438,2,en_espera
+P00396,Traumatología,Reparación manguito rotador,False,C,61,F,Araucanía,2025-05-18,436,2,en_espera
+P00193,Traumatología,Corrección hallux valgus,False,C,58,M,Biobío,2025-05-19,435,2,en_espera
+P00484,Traumatología,Artroplastia de rodilla,False,C,69,F,Metropolitana,2025-05-20,434,2,en_espera
+P00580,Otorrinolaringología,Amigdalectomía,False,A,90,F,O'Higgins,2025-05-21,433,2,en_espera
+P00577,Dermatología,Resección lesión cutánea,False,B,56,F,Valparaíso,2025-05-28,426,2,en_espera
+P00308,Dermatología,Resección lesión cutánea,False,B,48,M,Metropolitana,2025-05-30,424,2,en_espera
+P00153,Traumatología,Meniscectomía,False,C,54,F,Metropolitana,2025-06-10,413,2,en_espera
+P00392,Oftalmología,Cirugía de cataratas,True,D,71,F,Los Lagos,2025-06-11,412,2,en_espera
+P00369,Traumatología,Artroplastia de rodilla,False,B,79,F,Metropolitana,2025-06-12,411,2,en_espera
+P00133,Urología,Resección transuretral,False,B,61,F,Metropolitana,2025-06-14,409,2,en_espera
+P00333,Traumatología,Artroplastia de rodilla,False,D,74,M,Metropolitana,2025-06-15,408,2,en_espera
+P00341,Urología,Resección transuretral,False,B,48,F,Metropolitana,2025-06-15,408,2,en_espera
+P00042,Cirugía Plástica y Reparadora,Cirugía de quemados,False,B,85,F,Metropolitana,2025-06-16,407,2,en_espera
+P00162,Cirugía Digestiva,Hernia ventral,False,B,47,F,Metropolitana,2025-06-16,407,2,en_espera
+P00456,Otorrinolaringología,Septoplastía,False,B,58,F,Arica y Parinacota,2025-06-18,405,2,en_espera
+P00474,Cirugía General,Colecistectomía,False,D,54,M,Metropolitana,2025-06-18,405,2,en_espera
+P00388,Cirugía Digestiva,Colecistectomía,False,B,63,F,Antofagasta,2025-06-23,400,2,en_espera
+P00446,Cirugía Digestiva,Colecistectomía,False,B,48,F,Metropolitana,2025-06-26,397,2,en_espera
+P00200,Traumatología,Artroplastia de rodilla,False,A,59,M,Los Ríos,2025-06-27,396,2,en_espera
+P00395,Dermatología,Resección lesión cutánea,False,A,68,F,Maule,2025-06-27,396,2,en_espera
+P00574,Cirugía Cardiovascular,Cirugía valvular,False,B,35,F,Biobío,2025-06-27,396,2,en_espera
+P00438,Traumatología,Artroplastia de rodilla,False,D,70,F,Metropolitana,2025-07-01,392,2,en_espera
+P00553,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,B,52,F,O'Higgins,2025-07-04,389,2,en_espera
+P00001,Dermatología,Biopsia excisional,False,B,82,F,Metropolitana,2025-07-06,387,2,en_espera
+P00160,Dermatología,Resección lesión cutánea,False,A,71,F,Los Lagos,2025-07-06,387,2,en_espera
+P00104,Neurocirugía,Cirugía de columna,False,B,5,M,O'Higgins,2025-07-09,384,2,en_espera
+P00273,Dermatología,Resección lesión cutánea,False,B,93,F,Araucanía,2025-07-12,381,2,en_espera
+P00453,Cirugía Digestiva,Reparación hernia inguinal,False,D,64,M,Metropolitana,2025-07-14,379,2,en_espera
+P00208,Traumatología,Reparación manguito rotador,False,A,61,F,O'Higgins,2025-07-17,376,2,en_espera
+P00526,Traumatología,Corrección hallux valgus,False,A,50,F,Araucanía,2025-07-17,376,2,en_espera
+P00214,Cirugía Digestiva,Colecistectomía,False,B,90,M,Metropolitana,2025-07-25,368,2,en_espera
+P00517,Otorrinolaringología,Amigdalectomía,False,D,63,F,Biobío,2025-07-25,368,2,en_espera
+P00585,Traumatología,Artroplastia de cadera <65,False,D,54,M,Metropolitana,2025-07-27,366,2,en_espera
+P00277,Traumatología,Corrección hallux valgus,False,D,74,M,Metropolitana,2025-07-30,363,2,en_espera
+P00540,Traumatología,Artroplastia de rodilla,False,B,69,M,O'Higgins,2025-08-04,358,2,en_espera
+P00131,Cirugía Digestiva,Hernia ventral,False,B,71,F,Metropolitana,2025-08-06,356,2,en_espera
+P00493,Ginecología,Histerectomía,False,B,81,M,Metropolitana,2025-08-06,356,2,en_espera
+P00059,Traumatología,Reparación manguito rotador,False,D,56,F,Metropolitana,2025-08-07,355,2,en_espera
+P00455,Cirugía Digestiva,Colecistectomía,False,A,78,M,Maule,2025-08-08,354,2,en_espera
+P00364,Urología,Resección transuretral,False,B,53,F,Metropolitana,2025-08-09,353,2,en_espera
+P00050,Traumatología,Artroplastia de rodilla,False,D,56,F,Metropolitana,2025-08-10,352,2,en_espera
+P00421,Traumatología,Artroplastia de cadera <65,False,B,80,M,Metropolitana,2025-08-11,351,2,en_espera
+P00536,Cirugía Digestiva,Colecistectomía,False,D,74,F,Metropolitana,2025-08-11,351,2,en_espera
+P00007,Oftalmología,Cirugía de cataratas,True,B,55,F,Metropolitana,2025-08-15,347,2,en_espera
+P00161,Otorrinolaringología,Amigdalectomía,False,B,50,F,Valparaíso,2025-08-16,346,2,en_espera
+P00212,Neurocirugía,Cirugía de columna,False,A,37,F,Biobío,2025-08-16,346,2,en_espera
+P00302,Dermatología,Resección lesión cutánea,False,C,54,F,Biobío,2025-08-16,346,2,en_espera
+P00048,Otorrinolaringología,Amigdalectomía,False,B,54,F,O'Higgins,2025-08-17,345,2,en_espera
+P00155,Otorrinolaringología,Amigdalectomía,False,A,95,M,Tarapacá,2025-08-17,345,2,en_espera
+P00480,Traumatología,Artroplastia de cadera <65,False,B,75,F,Maule,2025-08-18,344,2,en_espera
+P00337,Ginecología,Histerectomía,False,C,67,M,Maule,2025-08-19,343,2,en_espera
+P00501,Cirugía Digestiva,Reparación hernia inguinal,False,B,55,M,Los Lagos,2025-08-21,341,2,en_espera
+P00164,Urología,Resección transuretral,False,A,64,M,Metropolitana,2025-08-23,339,2,en_espera
+P00090,Cirugía Digestiva,Colecistectomía,False,B,56,F,Metropolitana,2025-08-24,338,2,en_espera
+P00599,Oftalmología,Cirugía de estrabismo,False,A,81,F,Metropolitana,2025-08-24,338,2,en_espera
+P00129,Traumatología,Artroplastia de rodilla,False,B,54,F,Metropolitana,2025-08-25,337,2,en_espera
+P00359,Urología,Resección transuretral,False,A,52,F,Tarapacá,2025-08-26,336,2,en_espera
+P00412,Dermatología,Resección lesión cutánea,False,B,55,F,Valparaíso,2025-09-03,328,2,en_espera
+P00462,Otorrinolaringología,Septoplastía,False,D,78,M,Araucanía,2025-09-07,324,2,en_espera
+P00234,Dermatología,Resección lesión cutánea,False,C,56,M,Metropolitana,2025-09-09,322,2,en_espera
+P00009,Traumatología,Reparación manguito rotador,False,C,64,F,Coquimbo,2025-09-11,320,2,en_espera
+P00037,Oftalmología,Cirugía de cataratas,True,C,74,M,Antofagasta,2025-09-12,319,2,en_espera
+P00409,Oftalmología,Cirugía de estrabismo,False,B,58,F,Los Lagos,2025-09-15,316,2,en_espera
+P00113,Traumatología,Artroplastia de cadera <65,False,B,54,M,Biobío,2025-09-16,315,2,en_espera
+P00584,Oftalmología,Cirugía de estrabismo,False,A,53,F,Metropolitana,2025-09-16,315,2,en_espera
+P00241,Otorrinolaringología,Septoplastía,False,D,95,F,Araucanía,2025-09-17,314,2,en_espera
+P00185,Otorrinolaringología,Amigdalectomía,False,D,60,F,Metropolitana,2025-09-29,302,2,en_espera
+P00238,Traumatología,Artroplastia de rodilla,False,B,77,F,Araucanía,2025-09-30,301,2,en_espera
+P00444,Ginecología,Miomectomía,False,D,80,M,Biobío,2025-09-30,301,2,en_espera
+P00482,Cirugía Digestiva,Colecistectomía,False,C,59,M,Metropolitana,2025-09-30,301,2,en_espera
+P00557,Ginecología,Miomectomía,False,C,59,F,O'Higgins,2025-10-01,300,2,en_espera
+P00071,Dermatología,Resección lesión cutánea,False,C,62,F,O'Higgins,2025-10-04,297,2,en_espera
+P00271,Oftalmología,Cirugía de cataratas,True,C,65,F,Biobío,2025-10-04,297,2,en_espera
+P00447,Ginecología,Histerectomía,False,B,72,M,Los Lagos,2025-10-05,296,2,en_espera
+P00218,Ginecología,Histerectomía,False,A,63,M,Metropolitana,2025-10-06,295,2,en_espera
+P00072,Cirugía Digestiva,Colecistectomía,False,B,92,M,Maule,2025-10-08,293,2,en_espera
+P00025,Cirugía Digestiva,Reparación hernia inguinal,False,B,78,F,Metropolitana,2025-10-10,291,2,en_espera
+P00355,Traumatología,Corrección hallux valgus,False,B,74,M,Coquimbo,2025-10-10,291,2,en_espera
+P00177,Cirugía Digestiva,Colecistectomía,False,C,72,F,Valparaíso,2025-10-11,290,2,en_espera
+P00148,Cirugía General,Colecistectomía,False,A,73,F,Valparaíso,2025-10-13,288,2,en_espera
+P00312,Cirugía Digestiva,Reparación hernia inguinal,False,C,67,M,Metropolitana,2025-10-13,288,2,en_espera
+P00107,Dermatología,Resección lesión cutánea,False,B,73,F,Metropolitana,2025-10-14,287,2,en_espera
+P00236,Otorrinolaringología,Septoplastía,False,A,67,M,Biobío,2025-10-14,287,2,en_espera
+P00278,Oftalmología,Cirugía de cataratas,True,C,79,M,Metropolitana,2025-10-14,287,2,en_espera
+P00436,Oftalmología,Cirugía de estrabismo,False,B,58,F,Araucanía,2025-10-14,287,2,en_espera
+P00368,Dermatología,Resección lesión cutánea,False,B,63,F,Los Lagos,2025-10-16,285,2,en_espera
+P00253,Oncología Quirúrgica,Resección tumoral,False,B,44,M,Metropolitana,2025-10-17,284,2,en_espera
+P00281,Dermatología,Biopsia excisional,False,B,80,M,Aysén,2025-10-18,283,2,en_espera
+P00103,Ginecología,Miomectomía,False,B,89,F,Metropolitana,2025-10-19,282,2,en_espera
+P00152,Cirugía General,Apendicectomía electiva,False,B,69,M,Tarapacá,2025-10-19,282,2,en_espera
+P00257,Urología,Resección transuretral,False,A,81,F,Metropolitana,2025-10-19,282,2,en_espera
+P00533,Traumatología,Artroplastia de cadera <65,False,B,64,M,Antofagasta,2025-10-21,280,2,en_espera
+P00450,Traumatología,Artroplastia de rodilla,False,A,80,F,Metropolitana,2025-10-22,279,2,en_espera
+P00579,Cirugía General,Apendicectomía electiva,False,D,78,F,Biobío,2025-10-24,277,2,en_espera
+P00143,Dermatología,Biopsia excisional,False,B,65,M,Arica y Parinacota,2025-10-28,273,2,en_espera
+P00256,Urología,Prostatectomía,False,A,78,F,Metropolitana,2025-11-01,269,2,en_espera
+P00512,Cirugía Cardiovascular,Bypass coronario,False,B,39,F,Maule,2025-11-01,269,2,en_espera
+P00322,Dermatología,Resección lesión cutánea,False,B,56,M,Maule,2025-11-03,267,2,en_espera
+P00561,Traumatología,Artroplastia de cadera <65,False,B,68,F,Antofagasta,2025-11-10,260,2,en_espera
+P00049,Dermatología,Resección lesión cutánea,False,D,63,M,Metropolitana,2025-11-11,259,2,en_espera
+P00078,Traumatología,Artroplastia de rodilla,False,D,61,F,Valparaíso,2025-11-11,259,2,en_espera
+P00344,Ginecología,Miomectomía,False,A,79,F,Araucanía,2025-11-12,258,2,en_espera
+P00149,Cirugía Digestiva,Colecistectomía,False,B,87,F,Los Lagos,2025-11-15,255,2,en_espera
+P00465,Traumatología,Corrección hallux valgus,False,D,64,M,Metropolitana,2025-11-15,255,2,en_espera
+P00105,Oftalmología,Cirugía de cataratas,True,D,66,M,Coquimbo,2025-11-17,253,2,en_espera
+P00076,Otorrinolaringología,Septoplastía,False,B,67,F,Magallanes,2025-11-22,248,2,en_espera
+P00223,Otorrinolaringología,Septoplastía,False,C,68,F,Metropolitana,2025-11-24,246,2,en_espera
+P00075,Dermatología,Resección lesión cutánea,False,C,66,F,Valparaíso,2025-11-26,244,2,en_espera
+P00206,Dermatología,Biopsia excisional,False,C,67,F,Metropolitana,2025-11-27,243,2,en_espera
+P00375,Traumatología,Artroplastia de cadera <65,False,D,64,F,Coquimbo,2025-11-30,240,2,en_espera
+P00163,Otorrinolaringología,Amigdalectomía,False,B,74,M,Maule,2025-12-01,239,2,en_espera
+P00363,Cirugía Digestiva,Reparación hernia inguinal,False,D,85,F,Los Ríos,2025-12-02,238,2,en_espera
+P00122,Dermatología,Biopsia excisional,False,B,78,F,Biobío,2025-12-04,236,2,en_espera
+P00381,Cirugía Digestiva,Colecistectomía,False,B,70,M,Biobío,2025-12-04,236,2,en_espera
+P00262,Dermatología,Biopsia excisional,False,B,60,M,Valparaíso,2025-12-08,232,2,en_espera
+P00054,Ginecología,Histerectomía,False,B,70,M,Antofagasta,2025-12-09,231,2,en_espera
+P00106,Traumatología,Corrección hallux valgus,False,D,89,M,Ñuble,2025-12-10,230,2,en_espera
+P00351,Cirugía Cardiovascular,Bypass coronario,False,B,45,M,Metropolitana,2025-12-20,220,2,en_espera
+P00354,Otorrinolaringología,Amigdalectomía,False,B,59,M,Metropolitana,2025-12-22,218,2,en_espera
+P00471,Cirugía Digestiva,Reparación hernia inguinal,False,B,58,F,Metropolitana,2025-12-23,217,2,en_espera
+P00485,Dermatología,Resección lesión cutánea,False,B,79,M,Metropolitana,2025-12-25,215,2,en_espera
+P00575,Oftalmología,Cirugía de estrabismo,False,D,92,M,Metropolitana,2025-12-26,214,2,en_espera
+P00006,Oftalmología,Cirugía de cataratas,True,B,59,M,Biobío,2025-12-27,213,2,en_espera
+P00159,Dermatología,Biopsia excisional,False,D,89,F,Valparaíso,2025-12-28,212,2,en_espera
+P00288,Cirugía Digestiva,Reparación hernia inguinal,False,B,62,M,O'Higgins,2025-12-28,212,2,en_espera
+P00073,Oftalmología,Cirugía de cataratas,True,A,71,F,Tarapacá,2025-12-29,211,2,en_espera
+P00515,Traumatología,Artroplastia de cadera <65,False,C,58,F,Atacama,2025-12-29,211,2,en_espera
+P00380,Traumatología,Meniscectomía,False,B,91,F,Tarapacá,2026-01-01,208,2,en_espera
+P00353,Cirugía Digestiva,Colecistectomía,False,D,81,M,Metropolitana,2026-01-02,207,2,en_espera
+P00489,Urología,Prostatectomía,False,B,59,M,Los Lagos,2026-01-03,206,2,en_espera
+P00016,Oftalmología,Cirugía de estrabismo,False,B,65,F,Valparaíso,2026-01-04,205,2,en_espera
+P00039,Cirugía Digestiva,Reparación hernia inguinal,False,B,73,F,Tarapacá,2026-01-04,205,2,en_espera
+P00274,Dermatología,Resección lesión cutánea,False,B,64,F,Metropolitana,2026-01-05,204,2,en_espera
+P00528,Ginecología,Histerectomía,False,A,67,F,Valparaíso,2026-01-06,203,2,en_espera
+P00377,Dermatología,Biopsia excisional,False,C,78,F,Ñuble,2026-01-07,202,2,en_espera
+P00389,Urología,Resección transuretral,False,C,80,F,Metropolitana,2026-01-09,200,2,en_espera
+P00336,Cirugía Digestiva,Colecistectomía,False,C,69,F,Maule,2026-01-11,198,2,en_espera
+P00479,Cirugía Digestiva,Colecistectomía,False,D,68,M,Biobío,2026-01-12,197,2,en_espera
+P00064,Oftalmología,Cirugía de cataratas,True,B,89,M,Antofagasta,2026-01-16,193,2,en_espera
+P00086,Oftalmología,Cirugía de cataratas,True,B,83,F,Metropolitana,2026-01-17,192,2,en_espera
+P00145,Cirugía Digestiva,Colecistectomía,False,D,75,F,Antofagasta,2026-01-20,189,2,en_espera
+P00100,Oftalmología,Cirugía de estrabismo,False,B,60,F,Tarapacá,2026-01-21,188,2,en_espera
+P00504,Traumatología,Artroplastia de rodilla,False,C,63,M,Aysén,2026-01-21,188,2,en_espera
+P00060,Cirugía Digestiva,Hernia ventral,False,C,79,F,Biobío,2026-01-23,186,2,en_espera
+P00424,Cirugía Digestiva,Hernia ventral,False,D,72,M,Metropolitana,2026-01-23,186,2,en_espera
+P00401,Otorrinolaringología,Amigdalectomía,False,C,82,F,Metropolitana,2026-01-27,182,2,en_espera
+P00134,Oncología Quirúrgica,Resección tumoral,False,C,54,F,Metropolitana,2026-01-29,180,2,en_espera
+P00171,Oftalmología,Cirugía de cataratas,True,A,63,F,O'Higgins,2026-01-29,180,2,en_espera
+P00562,Urología,Resección transuretral,False,B,79,M,Metropolitana,2026-01-29,180,2,en_espera
+P00014,Cirugía Digestiva,Colecistectomía,False,B,66,F,Metropolitana,2026-02-03,175,2,en_espera
+P00373,Oftalmología,Cirugía de estrabismo,False,C,61,F,Metropolitana,2026-02-04,174,2,en_espera
+P00542,Cirugía Digestiva,Reparación hernia inguinal,False,A,66,F,O'Higgins,2026-02-05,173,2,en_espera
+P00041,Oftalmología,Cirugía de cataratas,True,A,69,F,Metropolitana,2026-02-06,172,2,en_espera
+P00184,Cirugía Digestiva,Reparación hernia inguinal,False,A,62,F,Coquimbo,2026-02-08,170,2,en_espera
+P00139,Cirugía General,Apendicectomía electiva,False,B,80,F,Antofagasta,2026-02-09,169,2,en_espera
+P00196,Cirugía Digestiva,Colecistectomía,False,B,83,F,Metropolitana,2026-02-11,167,2,en_espera
+P00142,Dermatología,Resección lesión cutánea,False,C,65,M,Metropolitana,2026-02-15,163,2,en_espera
+P00112,Oftalmología,Cirugía de cataratas,True,B,65,M,Metropolitana,2026-02-16,162,2,en_espera
+P00487,Traumatología,Artroplastia de rodilla,False,B,86,M,Metropolitana,2026-02-20,158,2,en_espera
+P00434,Neurocirugía,Cirugía de columna,False,C,57,F,Metropolitana,2026-02-22,156,2,en_espera
+P00481,Urología,Prostatectomía,False,D,65,F,Metropolitana,2026-02-23,155,2,en_espera
+P00457,Ginecología,Histerectomía,False,B,82,F,Ñuble,2026-02-26,152,2,en_espera
+P00115,Cirugía Digestiva,Colecistectomía,False,B,87,F,Coquimbo,2026-03-01,149,2,en_espera
+P00117,Urología,Prostatectomía,False,B,66,F,Coquimbo,2026-03-04,146,2,en_espera
+P00077,Dermatología,Resección lesión cutánea,False,A,65,F,Metropolitana,2026-03-05,145,2,en_espera
+P00492,Cirugía Digestiva,Reparación hernia inguinal,False,D,74,M,Antofagasta,2026-03-06,144,2,en_espera
+P00543,Cirugía General,Colecistectomía,False,D,76,F,Metropolitana,2026-03-06,144,2,en_espera
+P00458,Cirugía Cardiovascular,Cirugía valvular,True,D,54,M,Los Lagos,2026-03-07,143,2,en_espera
+P00366,Otorrinolaringología,Amigdalectomía,False,D,68,F,Metropolitana,2026-03-11,139,2,en_espera
+P00419,Urología,Prostatectomía,False,B,65,M,Valparaíso,2026-03-12,138,2,en_espera
+P00506,Dermatología,Resección lesión cutánea,False,B,65,F,Maule,2026-03-13,137,2,en_espera
+P00371,Cirugía Cardiovascular,Bypass coronario,True,B,61,F,Metropolitana,2026-03-16,134,2,en_espera
+P00043,Oftalmología,Cirugía de estrabismo,False,C,70,M,Biobío,2026-03-23,127,2,en_espera
+P00448,Cirugía Digestiva,Hernia ventral,False,B,74,F,Los Lagos,2026-03-23,127,2,en_espera
+P00315,Ginecología,Histerectomía,False,C,70,F,Valparaíso,2026-03-24,126,2,en_espera
+P00323,Oncología Quirúrgica,Resección tumoral,False,B,60,F,Biobío,2026-04-06,113,2,en_espera
+P00342,Otorrinolaringología,Septoplastía,False,A,76,M,Antofagasta,2026-04-10,109,2,en_espera
+P00527,Cirugía Digestiva,Colecistectomía,False,B,81,M,Metropolitana,2026-04-10,109,2,en_espera
+P00314,Dermatología,Resección lesión cutánea,False,B,66,M,Maule,2026-04-14,105,2,en_espera
+P00550,Cirugía Digestiva,Reparación hernia inguinal,False,A,66,F,Maule,2026-04-22,97,2,en_espera
+P00519,Oftalmología,Cirugía de cataratas,True,B,67,F,Metropolitana,2026-04-23,96,2,en_espera
+P00298,Oncología Quirúrgica,Resección tumoral,False,B,52,M,Metropolitana,2026-05-06,83,2,en_espera
+P00593,Cirugía Digestiva,Reparación hernia inguinal,False,C,17,M,Maule,2024-11-24,611,1,en_espera
+P00427,Traumatología,Corrección hallux valgus,False,A,33,F,Metropolitana,2024-12-11,594,1,en_espera
+P00422,Traumatología,Artroplastia de rodilla,False,C,31,M,Los Lagos,2024-12-15,590,1,en_espera
+P00226,Traumatología,Corrección hallux valgus,False,B,26,M,Metropolitana,2024-12-16,589,1,en_espera
+P00216,Dermatología,Biopsia excisional,False,D,27,M,Metropolitana,2025-02-03,540,1,en_espera
+P00451,Traumatología,Meniscectomía,False,C,20,F,Metropolitana,2025-02-08,535,1,en_espera
+P00119,Traumatología,Artroplastia de rodilla,False,D,26,F,Araucanía,2025-02-14,529,1,en_espera
+P00068,Traumatología,Artroplastia de cadera <65,False,D,30,F,Maule,2025-02-22,521,1,en_espera
+P00056,Dermatología,Resección lesión cutánea,False,C,28,M,Araucanía,2025-03-04,511,1,en_espera
+P00213,Traumatología,Reparación manguito rotador,False,B,20,M,Biobío,2025-03-10,505,1,en_espera
+P00118,Cirugía General,Apendicectomía electiva,False,B,31,F,Antofagasta,2025-03-14,501,1,en_espera
+P00120,Cirugía Digestiva,Colecistectomía,False,B,16,F,Valparaíso,2025-03-14,501,1,en_espera
+P00181,Dermatología,Resección lesión cutánea,False,B,17,F,Magallanes,2025-03-18,497,1,en_espera
+P00564,Urología,Resección transuretral,False,C,28,F,Valparaíso,2025-03-18,497,1,en_espera
+P00028,Traumatología,Artroplastia de rodilla,False,B,27,M,Metropolitana,2025-03-24,491,1,en_espera
+P00189,Dermatología,Biopsia excisional,False,C,31,F,Magallanes,2025-03-28,487,1,en_espera
+P00261,Traumatología,Reparación manguito rotador,False,D,16,F,Metropolitana,2025-04-02,482,1,en_espera
+P00110,Dermatología,Biopsia excisional,False,A,15,M,Los Lagos,2025-04-04,480,1,en_espera
+P00203,Traumatología,Corrección hallux valgus,False,A,25,M,Biobío,2025-04-10,474,1,en_espera
+P00057,Traumatología,Artroplastia de cadera <65,False,D,38,F,Metropolitana,2025-04-17,467,1,en_espera
+P00186,Traumatología,Artroplastia de rodilla,False,A,38,M,Metropolitana,2025-04-23,461,1,en_espera
+P00439,Otorrinolaringología,Amigdalectomía,False,D,42,F,Biobío,2025-04-29,455,1,en_espera
+P00251,Otorrinolaringología,Amigdalectomía,False,A,39,F,Tarapacá,2025-04-30,454,1,en_espera
+P00182,Cirugía Digestiva,Reparación hernia inguinal,False,D,37,F,Valparaíso,2025-05-02,452,1,en_espera
+P00406,Dermatología,Resección lesión cutánea,False,B,26,M,Metropolitana,2025-05-05,449,1,en_espera
+P00376,Traumatología,Artroplastia de cadera <65,False,A,42,M,Metropolitana,2025-05-09,445,1,en_espera
+P00360,Urología,Prostatectomía,False,B,37,F,Metropolitana,2025-05-14,440,1,en_espera
+P00156,Oftalmología,Cirugía de estrabismo,False,A,23,M,Los Ríos,2025-05-15,439,1,en_espera
+P00391,Cirugía Digestiva,Reparación hernia inguinal,False,A,32,M,Biobío,2025-05-15,439,1,en_espera
+P00559,Traumatología,Meniscectomía,False,B,32,F,Metropolitana,2025-05-16,438,1,en_espera
+P00596,Cirugía General,Apendicectomía electiva,False,B,28,F,Metropolitana,2025-05-18,436,1,en_espera
+P00229,Urología,Resección transuretral,False,B,22,F,Metropolitana,2025-05-20,434,1,en_espera
+P00348,Cirugía Digestiva,Hernia ventral,False,B,38,M,Antofagasta,2025-05-20,434,1,en_espera
+P00093,Cirugía Digestiva,Colecistectomía,False,C,40,F,Tarapacá,2025-05-24,430,1,en_espera
+P00157,Otorrinolaringología,Amigdalectomía,False,B,31,F,Metropolitana,2025-05-27,427,1,en_espera
+P00296,Otorrinolaringología,Amigdalectomía,False,D,34,F,Maule,2025-06-01,422,1,en_espera
+P00598,Ginecología,Histerectomía,False,B,39,F,Los Lagos,2025-06-03,420,1,en_espera
+P00470,Urología,Prostatectomía,False,A,44,F,Valparaíso,2025-06-04,419,1,en_espera
+P00102,Cirugía General,Colecistectomía,False,B,43,F,Coquimbo,2025-06-05,418,1,en_espera
+P00029,Ginecología,Histerectomía,False,D,35,M,Los Lagos,2025-06-13,410,1,en_espera
+P00108,Cirugía Digestiva,Hernia ventral,False,B,5,M,Metropolitana,2025-06-25,398,1,en_espera
+P00449,Cirugía Digestiva,Reparación hernia inguinal,False,C,27,M,Tarapacá,2025-06-26,397,1,en_espera
+P00545,Oftalmología,Cirugía de cataratas,True,A,26,M,Antofagasta,2025-06-26,397,1,en_espera
+P00594,Traumatología,Corrección hallux valgus,False,B,30,F,Biobío,2025-06-26,397,1,en_espera
+P00111,Traumatología,Meniscectomía,False,D,29,F,Biobío,2025-06-30,393,1,en_espera
+P00530,Dermatología,Resección lesión cutánea,False,B,36,F,Valparaíso,2025-07-01,392,1,en_espera
+P00305,Traumatología,Artroplastia de cadera <65,False,B,36,M,Biobío,2025-07-08,385,1,en_espera
+P00008,Cirugía Digestiva,Colecistectomía,False,B,41,F,Biobío,2025-07-11,382,1,en_espera
+P00581,Urología,Resección transuretral,False,B,29,F,Metropolitana,2025-07-11,382,1,en_espera
+P00411,Dermatología,Biopsia excisional,False,A,31,M,Metropolitana,2025-07-22,371,1,en_espera
+P00036,Ginecología,Histerectomía,False,D,39,M,Ñuble,2025-08-01,361,1,en_espera
+P00233,Traumatología,Artroplastia de cadera <65,False,B,34,M,Metropolitana,2025-08-02,360,1,en_espera
+P00558,Traumatología,Artroplastia de rodilla,False,D,17,M,Metropolitana,2025-08-05,357,1,en_espera
+P00052,Urología,Prostatectomía,False,D,37,M,Valparaíso,2025-08-07,355,1,en_espera
+P00258,Dermatología,Resección lesión cutánea,False,D,24,M,Los Ríos,2025-08-07,355,1,en_espera
+P00235,Otorrinolaringología,Amigdalectomía,False,D,42,F,Valparaíso,2025-08-12,350,1,en_espera
+P00393,Ginecología,Miomectomía,False,B,39,F,Metropolitana,2025-08-13,349,1,en_espera
+P00267,Oftalmología,Cirugía de cataratas,True,C,46,F,Atacama,2025-08-16,346,1,en_espera
+P00582,Traumatología,Artroplastia de rodilla,False,B,49,F,Valparaíso,2025-08-19,343,1,en_espera
+P00407,Traumatología,Meniscectomía,False,B,46,F,Los Lagos,2025-08-20,342,1,en_espera
+P00053,Cirugía Digestiva,Reparación hernia inguinal,False,B,47,M,Tarapacá,2025-08-21,341,1,en_espera
+P00382,Traumatología,Corrección hallux valgus,False,B,31,M,Metropolitana,2025-08-21,341,1,en_espera
+P00293,Cirugía Digestiva,Hernia ventral,False,C,46,M,Metropolitana,2025-08-26,336,1,en_espera
+P00151,Otorrinolaringología,Septoplastía,False,C,44,M,Maule,2025-08-28,334,1,en_espera
+P00005,Traumatología,Meniscectomía,False,B,46,M,Metropolitana,2025-08-29,333,1,en_espera
+P00385,Dermatología,Resección lesión cutánea,False,B,42,F,Biobío,2025-08-29,333,1,en_espera
+P00499,Dermatología,Biopsia excisional,False,B,40,F,Valparaíso,2025-08-29,333,1,en_espera
+P00347,Cirugía General,Colecistectomía,False,A,34,F,Metropolitana,2025-08-30,332,1,en_espera
+P00127,Traumatología,Corrección hallux valgus,False,B,23,F,Coquimbo,2025-08-31,331,1,en_espera
+P00055,Dermatología,Resección lesión cutánea,False,B,49,M,O'Higgins,2025-09-02,329,1,en_espera
+P00372,Otorrinolaringología,Septoplastía,False,D,40,M,Atacama,2025-09-03,328,1,en_espera
+P00563,Ginecología,Miomectomía,False,B,47,F,Metropolitana,2025-09-04,327,1,en_espera
+P00387,Ginecología,Miomectomía,False,D,29,M,Valparaíso,2025-09-08,323,1,en_espera
+P00051,Urología,Prostatectomía,False,D,38,M,Coquimbo,2025-09-09,322,1,en_espera
+P00349,Dermatología,Biopsia excisional,False,B,40,F,O'Higgins,2025-09-12,319,1,en_espera
+P00287,Cirugía Digestiva,Hernia ventral,False,A,51,M,Los Lagos,2025-09-13,318,1,en_espera
+P00441,Ginecología,Miomectomía,False,A,29,F,Araucanía,2025-09-13,318,1,en_espera
+P00488,Dermatología,Resección lesión cutánea,False,B,34,F,Metropolitana,2025-09-14,317,1,en_espera
+P00518,Cirugía General,Colecistectomía,False,D,47,F,Valparaíso,2025-09-14,317,1,en_espera
+P00429,Traumatología,Meniscectomía,False,B,26,F,Biobío,2025-09-16,315,1,en_espera
+P00215,Oftalmología,Cirugía de estrabismo,False,B,33,F,Metropolitana,2025-09-17,314,1,en_espera
+P00358,Oftalmología,Cirugía de cataratas,True,C,51,F,Metropolitana,2025-09-17,314,1,en_espera
+P00386,Traumatología,Meniscectomía,False,B,31,F,Metropolitana,2025-09-19,312,1,en_espera
+P00522,Otorrinolaringología,Septoplastía,False,B,28,F,Biobío,2025-09-19,312,1,en_espera
+P00180,Cirugía Digestiva,Hernia ventral,False,B,46,F,Maule,2025-09-26,305,1,en_espera
+P00390,Oftalmología,Cirugía de estrabismo,False,D,40,F,Metropolitana,2025-09-26,305,1,en_espera
+P00495,Cirugía Digestiva,Hernia ventral,False,D,29,F,Valparaíso,2025-09-26,305,1,en_espera
+P00020,Oftalmología,Cirugía de cataratas,True,A,46,F,Valparaíso,2025-09-27,304,1,en_espera
+P00269,Cirugía Digestiva,Reparación hernia inguinal,False,D,24,F,O'Higgins,2025-09-30,301,1,en_espera
+P00158,Otorrinolaringología,Amigdalectomía,False,A,41,F,Metropolitana,2025-10-01,300,1,en_espera
+P00532,Traumatología,Artroplastia de rodilla,False,C,25,F,Metropolitana,2025-10-01,300,1,en_espera
+P00147,Urología,Prostatectomía,False,B,21,F,Metropolitana,2025-10-03,298,1,en_espera
+P00350,Ginecología,Histerectomía,False,D,35,M,Tarapacá,2025-10-03,298,1,en_espera
+P00494,Traumatología,Artroplastia de cadera <65,False,D,26,M,Metropolitana,2025-10-03,298,1,en_espera
+P00088,Traumatología,Artroplastia de rodilla,False,A,41,M,Biobío,2025-10-04,297,1,en_espera
+P00130,Urología,Prostatectomía,False,C,45,F,Valparaíso,2025-10-06,295,1,en_espera
+P00187,Dermatología,Biopsia excisional,False,A,12,F,Aysén,2025-10-10,291,1,en_espera
+P00063,Cirugía Digestiva,Hernia ventral,False,B,52,F,Magallanes,2025-10-11,290,1,en_espera
+P00227,Urología,Prostatectomía,False,B,45,M,Metropolitana,2025-10-11,290,1,en_espera
+P00265,Traumatología,Artroplastia de rodilla,False,B,35,M,Metropolitana,2025-10-11,290,1,en_espera
+P00356,Traumatología,Meniscectomía,False,A,23,F,Biobío,2025-10-11,290,1,en_espera
+P00018,Cirugía Digestiva,Hernia ventral,False,B,11,M,Magallanes,2025-10-12,289,1,en_espera
+P00080,Dermatología,Resección lesión cutánea,False,A,6,M,Araucanía,2025-10-13,288,1,en_espera
+P00244,Cirugía Digestiva,Colecistectomía,False,B,48,M,Araucanía,2025-10-13,288,1,en_espera
+P00038,Cirugía Digestiva,Colecistectomía,False,B,34,F,Biobío,2025-10-19,282,1,en_espera
+P00583,Dermatología,Biopsia excisional,False,A,28,F,Biobío,2025-10-19,282,1,en_espera
+P00374,Otorrinolaringología,Septoplastía,False,B,27,M,Metropolitana,2025-10-21,280,1,en_espera
+P00329,Oftalmología,Cirugía de estrabismo,False,C,44,F,Metropolitana,2025-10-22,279,1,en_espera
+P00061,Dermatología,Biopsia excisional,False,B,31,F,Metropolitana,2025-10-24,277,1,en_espera
+P00483,Dermatología,Resección lesión cutánea,False,A,33,M,Metropolitana,2025-10-26,275,1,en_espera
+P00232,Traumatología,Artroplastia de cadera <65,False,B,51,F,Maule,2025-10-28,273,1,en_espera
+P00320,Dermatología,Biopsia excisional,False,B,29,F,Atacama,2025-10-28,273,1,en_espera
+P00123,Otorrinolaringología,Amigdalectomía,False,B,48,M,Metropolitana,2025-10-29,272,1,en_espera
+P00220,Oftalmología,Cirugía de estrabismo,False,B,51,M,Ñuble,2025-10-29,272,1,en_espera
+P00276,Dermatología,Biopsia excisional,False,B,37,M,Biobío,2025-10-30,271,1,en_espera
+P00017,Urología,Resección transuretral,False,B,47,F,Metropolitana,2025-10-31,270,1,en_espera
+P00183,Cirugía Digestiva,Colecistectomía,False,D,26,F,Valparaíso,2025-10-31,270,1,en_espera
+P00275,Ginecología,Miomectomía,False,D,46,M,Metropolitana,2025-10-31,270,1,en_espera
+P00321,Dermatología,Resección lesión cutánea,False,A,44,F,Tarapacá,2025-11-03,267,1,en_espera
+P00121,Oftalmología,Cirugía de cataratas,True,A,50,M,Maule,2025-11-04,266,1,en_espera
+P00243,Traumatología,Artroplastia de rodilla,False,B,12,F,Los Ríos,2025-11-04,266,1,en_espera
+P00318,Cirugía Digestiva,Colecistectomía,False,B,48,M,Metropolitana,2025-11-04,266,1,en_espera
+P00466,Ginecología,Histerectomía,False,D,53,F,Metropolitana,2025-11-05,265,1,en_espera
+P00423,Traumatología,Artroplastia de rodilla,False,B,35,F,Metropolitana,2025-11-09,261,1,en_espera
+P00460,Cirugía Digestiva,Hernia ventral,False,C,26,M,Los Lagos,2025-11-10,260,1,en_espera
+P00410,Otorrinolaringología,Amigdalectomía,False,B,46,F,Atacama,2025-11-15,255,1,en_espera
+P00544,Dermatología,Resección lesión cutánea,False,B,45,F,Valparaíso,2025-11-15,255,1,en_espera
+P00292,Dermatología,Biopsia excisional,False,C,33,F,Ñuble,2025-11-16,254,1,en_espera
+P00283,Ginecología,Miomectomía,False,D,44,F,Araucanía,2025-11-17,253,1,en_espera
+P00379,Otorrinolaringología,Amigdalectomía,False,A,32,F,Metropolitana,2025-11-19,251,1,en_espera
+P00415,Cirugía Digestiva,Colecistectomía,False,B,37,M,Los Lagos,2025-11-19,251,1,en_espera
+P00013,Oftalmología,Cirugía de cataratas,True,B,46,F,Antofagasta,2025-11-20,250,1,en_espera
+P00195,Urología,Prostatectomía,False,A,54,F,Metropolitana,2025-11-20,250,1,en_espera
+P00089,Dermatología,Biopsia excisional,False,D,33,M,Araucanía,2025-11-22,248,1,en_espera
+P00035,Oftalmología,Cirugía de cataratas,True,C,29,M,Los Lagos,2025-11-23,247,1,en_espera
+P00510,Otorrinolaringología,Septoplastía,False,B,41,F,Los Lagos,2025-11-24,246,1,en_espera
+P00175,Oftalmología,Cirugía de estrabismo,False,C,54,F,Metropolitana,2025-11-26,244,1,en_espera
+P00491,Urología,Prostatectomía,False,C,50,M,Los Ríos,2025-11-26,244,1,en_espera
+P00554,Dermatología,Resección lesión cutánea,False,B,39,F,Aysén,2025-11-27,243,1,en_espera
+P00154,Urología,Resección transuretral,False,B,52,F,Aysén,2025-11-29,241,1,en_espera
+P00397,Oftalmología,Cirugía de estrabismo,False,D,38,M,Metropolitana,2025-11-30,240,1,en_espera
+P00426,Cirugía General,Apendicectomía electiva,False,B,55,M,O'Higgins,2025-11-30,240,1,en_espera
+P00523,Dermatología,Resección lesión cutánea,False,D,27,M,Metropolitana,2025-11-30,240,1,en_espera
+P00566,Traumatología,Artroplastia de rodilla,False,D,52,M,Valparaíso,2025-11-30,240,1,en_espera
+P00325,Cirugía Digestiva,Colecistectomía,False,D,42,F,Biobío,2025-12-01,239,1,en_espera
+P00570,Ginecología,Histerectomía,False,D,38,F,Biobío,2025-12-01,239,1,en_espera
+P00272,Traumatología,Artroplastia de cadera <65,False,D,50,M,Los Lagos,2025-12-02,238,1,en_espera
+P00326,Cirugía Digestiva,Reparación hernia inguinal,False,B,29,M,Valparaíso,2025-12-02,238,1,en_espera
+P00367,Dermatología,Biopsia excisional,False,A,55,F,O'Higgins,2025-12-02,238,1,en_espera
+P00297,Otorrinolaringología,Septoplastía,False,A,48,M,Biobío,2025-12-03,237,1,en_espera
+P00081,Otorrinolaringología,Amigdalectomía,False,C,47,M,Metropolitana,2025-12-04,236,1,en_espera
+P00137,Cirugía Digestiva,Reparación hernia inguinal,False,C,43,F,Metropolitana,2025-12-04,236,1,en_espera
+P00552,Traumatología,Reparación manguito rotador,False,B,36,F,Maule,2025-12-05,235,1,en_espera
+P00032,Ginecología,Histerectomía,False,D,49,F,Atacama,2025-12-06,234,1,en_espera
+P00467,Cirugía Digestiva,Colecistectomía,False,B,37,F,Metropolitana,2025-12-06,234,1,en_espera
+P00291,Otorrinolaringología,Septoplastía,False,D,32,F,Biobío,2025-12-07,233,1,en_espera
+P00132,Traumatología,Meniscectomía,False,D,47,F,Coquimbo,2025-12-08,232,1,en_espera
+P00304,Cirugía Digestiva,Hernia ventral,False,B,10,F,Metropolitana,2025-12-08,232,1,en_espera
+P00430,Otorrinolaringología,Amigdalectomía,False,B,40,F,Atacama,2025-12-08,232,1,en_espera
+P00572,Cirugía Digestiva,Colecistectomía,False,A,29,F,Los Ríos,2025-12-08,232,1,en_espera
+P00357,Cirugía Digestiva,Hernia ventral,False,B,32,F,Biobío,2025-12-09,231,1,en_espera
+P00425,Cirugía Digestiva,Reparación hernia inguinal,False,B,34,F,Metropolitana,2025-12-09,231,1,en_espera
+P00024,Dermatología,Biopsia excisional,False,D,34,F,Antofagasta,2025-12-10,230,1,en_espera
+P00096,Urología,Prostatectomía,False,C,45,M,Biobío,2025-12-10,230,1,en_espera
+P00514,Otorrinolaringología,Septoplastía,False,B,38,F,Maule,2025-12-10,230,1,en_espera
+P00019,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,A,51,F,O'Higgins,2025-12-11,229,1,en_espera
+P00268,Oftalmología,Cirugía de estrabismo,False,C,39,F,Aysén,2025-12-13,227,1,en_espera
+P00400,Cirugía General,Apendicectomía electiva,False,B,39,F,Metropolitana,2025-12-13,227,1,en_espera
+P00597,Oftalmología,Cirugía de cataratas,True,B,27,F,Metropolitana,2025-12-13,227,1,en_espera
+P00402,Dermatología,Biopsia excisional,False,D,48,F,O'Higgins,2025-12-15,225,1,en_espera
+P00210,Traumatología,Corrección hallux valgus,False,C,13,M,Arica y Parinacota,2025-12-21,219,1,en_espera
+P00168,Cirugía General,Apendicectomía electiva,False,B,40,F,Aysén,2025-12-23,217,1,en_espera
+P00252,Traumatología,Reparación manguito rotador,False,B,29,F,Antofagasta,2025-12-23,217,1,en_espera
+P00565,Dermatología,Biopsia excisional,False,D,45,F,Metropolitana,2025-12-25,215,1,en_espera
+P00309,Urología,Resección transuretral,False,A,54,F,O'Higgins,2025-12-28,212,1,en_espera
+P00340,Ginecología,Histerectomía,False,B,37,F,Metropolitana,2025-12-28,212,1,en_espera
+P00270,Cirugía Digestiva,Colecistectomía,False,D,41,F,Biobío,2025-12-30,210,1,en_espera
+P00170,Oftalmología,Cirugía de cataratas,True,B,50,F,Metropolitana,2025-12-31,209,1,en_espera
+P00328,Traumatología,Artroplastia de cadera <65,False,D,56,M,Coquimbo,2025-12-31,209,1,en_espera
+P00403,Otorrinolaringología,Septoplastía,False,A,25,M,Metropolitana,2026-01-01,208,1,en_espera
+P00010,Ginecología,Miomectomía,False,D,39,F,O'Higgins,2026-01-02,207,1,en_espera
+P00023,Traumatología,Corrección hallux valgus,False,B,53,M,Los Lagos,2026-01-02,207,1,en_espera
+P00167,Cirugía Digestiva,Reparación hernia inguinal,False,B,3,F,Los Lagos,2026-01-02,207,1,en_espera
+P00284,Oftalmología,Cirugía de estrabismo,False,B,12,M,Metropolitana,2026-01-03,206,1,en_espera
+P00330,Cirugía General,Apendicectomía electiva,False,B,28,M,Maule,2026-01-03,206,1,en_espera
+P00295,Ginecología,Miomectomía,False,B,45,F,Metropolitana,2026-01-04,205,1,en_espera
+P00311,Ginecología,Histerectomía,False,C,38,M,Los Lagos,2026-01-04,205,1,en_espera
+P00109,Ginecología,Histerectomía,False,B,21,F,Biobío,2026-01-07,202,1,en_espera
+P00231,Urología,Prostatectomía,False,B,1,F,Tarapacá,2026-01-07,202,1,en_espera
+P00245,Cirugía General,Apendicectomía electiva,False,B,57,M,Maule,2026-01-07,202,1,en_espera
+P00074,Otorrinolaringología,Septoplastía,False,B,45,F,O'Higgins,2026-01-08,201,1,en_espera
+P00459,Urología,Resección transuretral,False,C,54,F,Los Lagos,2026-01-09,200,1,en_espera
+P00224,Oftalmología,Cirugía de cataratas,True,A,32,F,Metropolitana,2026-01-10,199,1,en_espera
+P00586,Traumatología,Artroplastia de rodilla,False,D,54,F,Los Lagos,2026-01-11,198,1,en_espera
+P00420,Otorrinolaringología,Septoplastía,False,B,16,F,Biobío,2026-01-13,196,1,en_espera
+P00166,Dermatología,Resección lesión cutánea,False,B,51,F,Araucanía,2026-01-16,193,1,en_espera
+P00207,Urología,Prostatectomía,False,B,57,M,O'Higgins,2026-01-17,192,1,en_espera
+P00079,Otorrinolaringología,Amigdalectomía,False,A,36,F,Metropolitana,2026-01-18,191,1,en_espera
+P00346,Cirugía Digestiva,Colecistectomía,False,C,52,F,Metropolitana,2026-01-19,190,1,en_espera
+P00209,Otorrinolaringología,Septoplastía,False,B,24,F,Aysén,2026-01-20,189,1,en_espera
+P00437,Dermatología,Resección lesión cutánea,False,C,50,F,Antofagasta,2026-01-22,187,1,en_espera
+P00084,Dermatología,Resección lesión cutánea,False,A,33,F,Metropolitana,2026-01-23,186,1,en_espera
+P00286,Cirugía Digestiva,Colecistectomía,False,B,11,M,O'Higgins,2026-01-23,186,1,en_espera
+P00091,Urología,Prostatectomía,False,B,15,F,Metropolitana,2026-01-25,184,1,en_espera
+P00345,Cirugía Digestiva,Reparación hernia inguinal,False,A,43,M,Tarapacá,2026-01-26,183,1,en_espera
+P00179,Otorrinolaringología,Septoplastía,False,D,59,M,Metropolitana,2026-01-27,182,1,en_espera
+P00034,Dermatología,Biopsia excisional,False,D,41,F,Los Lagos,2026-02-02,176,1,en_espera
+P00266,Ginecología,Histerectomía,False,D,51,F,Metropolitana,2026-02-02,176,1,en_espera
+P00306,Cirugía Digestiva,Hernia ventral,False,A,48,M,Metropolitana,2026-02-02,176,1,en_espera
+P00469,Cirugía Digestiva,Colecistectomía,False,A,26,M,Metropolitana,2026-02-02,176,1,en_espera
+P00116,Otorrinolaringología,Amigdalectomía,False,A,37,M,Metropolitana,2026-02-03,175,1,en_espera
+P00198,Cirugía General,Apendicectomía electiva,False,B,51,F,Valparaíso,2026-02-03,175,1,en_espera
+P00490,Oftalmología,Cirugía de estrabismo,False,C,48,F,Biobío,2026-02-04,174,1,en_espera
+P00044,Otorrinolaringología,Amigdalectomía,False,A,26,M,Metropolitana,2026-02-05,173,1,en_espera
+P00303,Otorrinolaringología,Amigdalectomía,False,A,25,F,Metropolitana,2026-02-06,172,1,en_espera
+P00571,Cirugía Digestiva,Hernia ventral,False,D,53,F,Valparaíso,2026-02-06,172,1,en_espera
+P00285,Dermatología,Biopsia excisional,False,C,41,M,Metropolitana,2026-02-09,169,1,en_espera
+P00335,Otorrinolaringología,Septoplastía,False,B,60,F,Araucanía,2026-02-09,169,1,en_espera
+P00463,Cirugía Plástica y Reparadora,Reconstrucción post oncológica,False,B,46,F,Metropolitana,2026-02-09,169,1,en_espera
+P00476,Cirugía General,Colecistectomía,False,A,12,M,Metropolitana,2026-02-09,169,1,en_espera
+P00003,Dermatología,Resección lesión cutánea,False,B,58,F,Valparaíso,2026-02-10,168,1,en_espera
+P00556,Otorrinolaringología,Septoplastía,False,A,44,M,Biobío,2026-02-10,168,1,en_espera
+P00539,Urología,Prostatectomía,False,B,38,M,Maule,2026-02-11,167,1,en_espera
+P00338,Otorrinolaringología,Amigdalectomía,False,B,51,F,Metropolitana,2026-02-13,165,1,en_espera
+P00002,Cirugía General,Apendicectomía electiva,False,B,41,F,Biobío,2026-02-14,164,1,en_espera
+P00310,Otorrinolaringología,Amigdalectomía,False,A,7,F,Valparaíso,2026-02-14,164,1,en_espera
+P00398,Urología,Resección transuretral,False,B,46,M,Metropolitana,2026-02-14,164,1,en_espera
+P00472,Otorrinolaringología,Amigdalectomía,False,B,51,F,Maule,2026-02-15,163,1,en_espera
+P00546,Oftalmología,Cirugía de cataratas,True,B,52,F,Metropolitana,2026-02-15,163,1,en_espera
+P00022,Otorrinolaringología,Septoplastía,False,B,53,M,Metropolitana,2026-02-18,160,1,en_espera
+P00433,Otorrinolaringología,Amigdalectomía,False,B,43,M,Metropolitana,2026-02-19,159,1,en_espera
+P00524,Dermatología,Resección lesión cutánea,False,A,58,F,Maule,2026-02-20,158,1,en_espera
+P00141,Cirugía Digestiva,Colecistectomía,False,A,36,F,Aysén,2026-02-21,157,1,en_espera
+P00114,Dermatología,Resección lesión cutánea,False,D,56,F,Los Ríos,2026-02-23,155,1,en_espera
+P00529,Cirugía General,Apendicectomía electiva,False,D,37,M,Metropolitana,2026-02-24,154,1,en_espera
+P00478,Oftalmología,Cirugía de cataratas,True,B,60,F,Metropolitana,2026-02-25,153,1,en_espera
+P00331,Oftalmología,Cirugía de cataratas,True,B,38,M,Biobío,2026-02-26,152,1,en_espera
+P00011,Cirugía Digestiva,Colecistectomía,False,B,28,M,Antofagasta,2026-03-01,149,1,en_espera
+P00260,Dermatología,Resección lesión cutánea,False,B,58,F,Metropolitana,2026-03-01,149,1,en_espera
+P00222,Cirugía Digestiva,Colecistectomía,False,B,44,M,Magallanes,2026-03-07,143,1,en_espera
+P00535,Otorrinolaringología,Septoplastía,False,B,45,M,Los Lagos,2026-03-07,143,1,en_espera
+P00384,Ginecología,Miomectomía,False,B,60,M,Metropolitana,2026-03-08,142,1,en_espera
+P00500,Cirugía Digestiva,Reparación hernia inguinal,False,B,47,F,Antofagasta,2026-03-08,142,1,en_espera
+P00092,Otorrinolaringología,Amigdalectomía,False,B,57,F,Metropolitana,2026-03-09,141,1,en_espera
+P00507,Urología,Prostatectomía,False,B,24,M,Metropolitana,2026-03-09,141,1,en_espera
+P00531,Cirugía Digestiva,Colecistectomía,False,C,54,F,Tarapacá,2026-03-10,140,1,en_espera
+P00289,Ginecología,Miomectomía,False,B,38,F,Los Lagos,2026-03-11,139,1,en_espera
+P00440,Cirugía Digestiva,Colecistectomía,False,B,22,F,Valparaíso,2026-03-12,138,1,en_espera
+P00174,Ginecología,Histerectomía,False,C,41,M,Biobío,2026-03-13,137,1,en_espera
+P00282,Otorrinolaringología,Septoplastía,False,B,46,F,Biobío,2026-03-13,137,1,en_espera
+P00246,Ginecología,Miomectomía,False,D,62,F,Los Ríos,2026-03-14,136,1,en_espera
+P00513,Urología,Resección transuretral,False,B,37,F,Valparaíso,2026-03-15,135,1,en_espera
+P00317,Ginecología,Miomectomía,False,A,43,F,Antofagasta,2026-03-17,133,1,en_espera
+P00404,Cirugía Digestiva,Colecistectomía,False,A,53,M,Valparaíso,2026-03-17,133,1,en_espera
+P00537,Dermatología,Biopsia excisional,False,B,14,F,Maule,2026-03-21,129,1,en_espera
+P00138,Otorrinolaringología,Septoplastía,False,D,63,F,Metropolitana,2026-03-23,127,1,en_espera
+P00087,Otorrinolaringología,Septoplastía,False,B,63,F,Metropolitana,2026-03-26,124,1,en_espera
+P00383,Traumatología,Meniscectomía,False,D,55,M,Metropolitana,2026-03-28,122,1,en_espera
+P00030,Oftalmología,Cirugía de cataratas,True,D,36,F,Metropolitana,2026-03-30,120,1,en_espera
+P00468,Dermatología,Resección lesión cutánea,False,B,42,M,Metropolitana,2026-03-31,119,1,en_espera
+P00098,Cirugía Digestiva,Reparación hernia inguinal,False,B,52,M,Biobío,2026-04-02,117,1,en_espera
+P00124,Cirugía Digestiva,Colecistectomía,False,B,63,F,Maule,2026-04-04,115,1,en_espera
+P00431,Otorrinolaringología,Septoplastía,False,C,14,F,Los Lagos,2026-04-06,113,1,en_espera
+P00201,Cirugía Digestiva,Colecistectomía,False,B,50,F,Araucanía,2026-04-08,111,1,en_espera
+P00600,Dermatología,Resección lesión cutánea,False,B,54,F,Metropolitana,2026-04-08,111,1,en_espera
+P00541,Otorrinolaringología,Septoplastía,False,B,41,M,Los Lagos,2026-04-10,109,1,en_espera
+P00136,Cirugía General,Colecistectomía,False,A,62,F,Los Lagos,2026-04-11,108,1,en_espera
+P00316,Urología,Resección transuretral,False,B,38,F,O'Higgins,2026-04-11,108,1,en_espera
+P00569,Otorrinolaringología,Septoplastía,False,B,31,F,Metropolitana,2026-04-12,107,1,en_espera
+P00509,Urología,Prostatectomía,False,A,44,M,Los Ríos,2026-04-13,106,1,en_espera
+P00567,Cirugía Digestiva,Colecistectomía,False,B,24,M,Los Lagos,2026-04-13,106,1,en_espera
+P00046,Dermatología,Resección lesión cutánea,False,B,25,M,Metropolitana,2026-04-16,103,1,en_espera
+P00219,Cirugía Digestiva,Colecistectomía,False,B,62,F,O'Higgins,2026-04-16,103,1,en_espera
+P00592,Cirugía General,Colecistectomía,False,B,17,M,Araucanía,2026-04-17,102,1,en_espera
+P00339,Cirugía Digestiva,Colecistectomía,False,B,56,F,Araucanía,2026-04-19,100,1,en_espera
+P00505,Cirugía Digestiva,Hernia ventral,False,A,34,F,Los Lagos,2026-04-19,100,1,en_espera
+P00066,Cirugía Digestiva,Reparación hernia inguinal,False,C,59,M,Metropolitana,2026-04-20,99,1,en_espera
+P00069,Cirugía General,Colecistectomía,False,D,40,F,Araucanía,2026-04-20,99,1,en_espera
+P00094,Oftalmología,Cirugía de cataratas,True,D,31,M,Atacama,2026-04-20,99,1,en_espera
+P00194,Ginecología,Miomectomía,False,C,33,M,Tarapacá,2026-04-20,99,1,en_espera
+P00178,Cirugía General,Apendicectomía electiva,False,D,40,F,Metropolitana,2026-04-22,97,1,en_espera
+P00405,Ginecología,Miomectomía,False,B,33,F,Metropolitana,2026-04-28,91,1,en_espera
+P00362,Urología,Resección transuretral,False,A,33,F,Metropolitana,2026-05-03,86,1,en_espera
+P00150,Traumatología,Meniscectomía,False,C,34,F,Metropolitana,2026-05-11,78,1,en_espera
+P00588,Otorrinolaringología,Amigdalectomía,False,B,45,F,Metropolitana,2026-05-23,66,1,en_espera
+P00352,Cirugía Digestiva,Hernia ventral,False,B,52,F,Metropolitana,2026-05-26,63,1,en_espera
+P00140,Oncología Quirúrgica,Resección tumoral,False,B,16,M,Metropolitana,2026-06-07,51,1,en_espera

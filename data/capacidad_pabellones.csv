@@ -1,0 +1,47 @@
+id_prestador,prestador,tipo_prestador,region,especialidad,cupos_disponibles_semana,ocupacion_pabellon_pct
+PR001,Hospital Público Metropolitano Norte,Público,Metropolitana,Traumatología,11,0.8
+PR002,Hospital Público Metropolitano Norte,Público,Metropolitana,Cirugía Digestiva,7,0.8
+PR003,Hospital Público Metropolitano Norte,Público,Metropolitana,Otorrinolaringología,4,0.73
+PR004,Hospital Público Metropolitano Norte,Público,Metropolitana,Urología,4,0.67
+PR005,Hospital Público Metropolitano Norte,Público,Metropolitana,Cirugía Cardiovascular,2,0.82
+PR006,Hospital Público Metropolitano Norte,Público,Metropolitana,Cirugía Plástica y Reparadora,9,0.87
+PR007,Hospital Público Metropolitano Norte,Público,Metropolitana,Oncología Quirúrgica,1,0.69
+PR008,Hospital Público Metropolitano Sur,Público,Metropolitana,Dermatología,2,0.68
+PR009,Hospital Público Metropolitano Sur,Público,Metropolitana,Oftalmología,6,0.8
+PR010,Hospital Público Metropolitano Sur,Público,Metropolitana,Ginecología,11,0.59
+PR011,Hospital Público Metropolitano Sur,Público,Metropolitana,Oncología Quirúrgica,4,0.83
+PR012,Hospital Regional Valparaíso,Público,Valparaíso,Traumatología,9,0.68
+PR013,Hospital Regional Valparaíso,Público,Valparaíso,Oftalmología,5,0.75
+PR014,Hospital Regional Valparaíso,Público,Valparaíso,Otorrinolaringología,2,0.93
+PR015,Hospital Regional Valparaíso,Público,Valparaíso,Ginecología,4,0.98
+PR016,Hospital Regional Valparaíso,Público,Valparaíso,Urología,9,0.93
+PR017,Hospital Regional Valparaíso,Público,Valparaíso,Cirugía Cardiovascular,5,0.55
+PR018,Hospital Regional Valparaíso,Público,Valparaíso,Cirugía Plástica y Reparadora,10,0.92
+PR019,Hospital Regional Biobío,Público,Biobío,Traumatología,10,0.94
+PR020,Hospital Regional Biobío,Público,Biobío,Oftalmología,7,0.82
+PR021,Hospital Regional Biobío,Público,Biobío,Otorrinolaringología,5,0.95
+PR022,Hospital Regional Biobío,Público,Biobío,Urología,7,0.62
+PR023,Hospital Regional Biobío,Público,Biobío,Oncología Quirúrgica,10,0.8
+PR024,Clínica Red Caja La Araucana Santiago,Privado convenio,Metropolitana,Otorrinolaringología,5,0.65
+PR025,Clínica Red Caja La Araucana Santiago,Privado convenio,Metropolitana,Neurocirugía,8,0.9
+PR026,Clínica Red Caja La Araucana Santiago,Privado convenio,Metropolitana,Cirugía Cardiovascular,7,0.88
+PR027,Clínica Red Caja La Araucana Santiago,Privado convenio,Metropolitana,Oncología Quirúrgica,4,0.71
+PR028,Clínica Red Caja La Araucana Valparaíso,Privado convenio,Valparaíso,Urología,10,0.78
+PR029,Clínica Red Caja La Araucana Valparaíso,Privado convenio,Valparaíso,Cirugía General,7,0.92
+PR030,Clínica Red Caja La Araucana Valparaíso,Privado convenio,Valparaíso,Neurocirugía,9,0.94
+PR031,Clínica Red Caja La Araucana Valparaíso,Privado convenio,Valparaíso,Cirugía Plástica y Reparadora,9,0.57
+PR032,Clínica Red Caja La Araucana Valparaíso,Privado convenio,Valparaíso,Oncología Quirúrgica,11,0.77
+PR033,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Dermatología,6,0.55
+PR034,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Ginecología,7,0.87
+PR035,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Urología,4,0.67
+PR036,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Cirugía General,7,0.61
+PR037,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Neurocirugía,8,0.84
+PR038,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Cirugía Plástica y Reparadora,6,0.68
+PR039,Prestador Externo Traumatología SPA,Privado externo,Metropolitana,Oncología Quirúrgica,1,0.75
+PR040,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Traumatología,7,0.62
+PR041,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Cirugía Digestiva,5,0.82
+PR042,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Oftalmología,11,0.81
+PR043,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Ginecología,3,0.86
+PR044,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Cirugía General,1,0.68
+PR045,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Cirugía Cardiovascular,6,0.93
+PR046,Centro Quirúrgico Ambulatorio Biobío,Privado externo,Biobío,Oncología Quirúrgica,2,0.82
